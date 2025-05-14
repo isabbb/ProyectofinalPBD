@@ -1,0 +1,183 @@
+[
+    {
+      "marca": "Yamaha",
+      "modelo": "MT-07",
+      "anio": 2023,
+      "color": "Azul",
+      "tipo": "Retro",
+      "id_motor": { "$oid": "478e086cd80feb5cda1f3ff2" },
+      "id_propietario": { "$oid": "aa32696dd653ca46c449a4c0" }
+    },
+    {
+      "marca": "Honda",
+      "modelo": "CB500F",
+      "anio": 2015,
+      "color": "Negro",
+      "tipo": "Cruiser",
+      "id_motor": { "$oid": "1189266e0d437c5685c48500" },
+      "id_propietario": { "$oid": "5296b18e3d736b2927383922" }
+    },
+    {
+      "marca": "Kawasaki",
+      "modelo": "Z650",
+      "anio": 2022,
+      "color": "Negro",
+      "tipo": "Cruiser",
+      "id_motor": { "$oid": "c6d711a6f5ebe0726870103f" },
+      "id_propietario": { "$oid": "3794f23b46105d1f740fba1b" }
+    },
+    {
+      "marca": "Suzuki",
+      "modelo": "SV650",
+      "anio": 2018,
+      "color": "Verde",
+      "tipo": "Sport",
+      "id_motor": { "$oid": "9a0dc30c1757f742ce87abf7" },
+      "id_propietario": { "$oid": "15d409381031b4963f7992c9" }
+    },
+    {
+      "marca": "Ducati",
+      "modelo": "Monster 821",
+      "anio": 2020,
+      "color": "Rojo",
+      "tipo": "Naked",
+      "id_motor": { "$oid": "11afae60a3e8dfd17b50e6c1" },
+      "id_propietario": { "$oid": "2c1f2b9d70f6e548eb0fd433" }
+    },
+    {
+      "marca": "BMW",
+      "modelo": "G 310 R",
+      "anio": 2021,
+      "color": "Blanco",
+      "tipo": "Sport",
+      "id_motor": { "$oid": "f3cf60a5294d9a33d8fe0b45" },
+      "id_propietario": { "$oid": "01cddf73c442db470d6ec2fc" }
+    },
+    {
+      "marca": "KTM",
+      "modelo": "Duke 390",
+      "anio": 2019,
+      "color": "Naranja",
+      "tipo": "Naked",
+      "id_motor": { "$oid": "d94c850d79f4600ea05d1738" },
+      "id_propietario": { "$oid": "aa4128e85c6a172d95b621fe" }
+    },
+    {
+      "marca": "Harley-Davidson",
+      "modelo": "Iron 883",
+      "anio": 2017,
+      "color": "Negro",
+      "tipo": "Cruiser",
+      "id_motor": { "$oid": "327ad2a7a339f21ef6340b66" },
+      "id_propietario": { "$oid": "7f4bd2d91e0a4c0b8fd1451a" }
+    },
+    {
+      "marca": "Triumph",
+      "modelo": "Street Triple",
+      "anio": 2022,
+      "color": "Gris",
+      "tipo": "Naked",
+      "id_motor": { "$oid": "f73d9dc651fb13d947eb6a0f" },
+      "id_propietario": { "$oid": "0e1189c4d8d10c2677e243ce" }
+    },
+    {
+      "marca": "Benelli",
+      "modelo": "Leoncino 500",
+      "anio": 2016,
+      "color": "Rojo",
+      "tipo": "Retro",
+      "id_motor": { "$oid": "d28c157ec4bc1679cf229ab3" },
+      "id_propietario": { "$oid": "59c839e3f84b65779917da2f" }
+    },
+    {
+      "marca": "Royal Enfield",
+      "modelo": "Himalayan",
+      "anio": 2021,
+      "color": "Blanco",
+      "tipo": "Adventure",
+      "id_motor": { "$oid": "f24885de86fd7b7e5c1f73a0" },
+      "id_propietario": { "$oid": "1c0042e3b089620f2178a457" }
+    },
+    {
+      "marca": "CFMOTO",
+      "modelo": "300NK",
+      "anio": 2019,
+      "color": "Azul",
+      "tipo": "Naked",
+      "id_motor": { "$oid": "f614781c57e70b9b0be5a4ac" },
+      "id_propietario": { "$oid": "5e4a3271a47013cb846ec9df" }
+    },
+    {
+      "marca": "Aprilia",
+      "modelo": "Tuono 660",
+      "anio": 2022,
+      "color": "Gris",
+      "tipo": "Sport",
+      "id_motor": { "$oid": "a128dd6ee3b54384a6d5bd44" },
+      "id_propietario": { "$oid": "d8e1995703241a54b9d8c430" }
+    },
+    {
+      "marca": "Moto Guzzi",
+      "modelo": "V7",
+      "anio": 2018,
+      "color": "Negro",
+      "tipo": "Retro",
+      "id_motor": { "$oid": "7f1aa1d73ccabf44c2c780d1" },
+      "id_propietario": { "$oid": "fd902a34bd089110e765fcb2" }
+    },
+    {
+      "marca": "Husqvarna",
+      "modelo": "Vitpilen 401",
+      "anio": 2020,
+      "color": "Blanco",
+      "tipo": "Naked",
+      "id_motor": { "$oid": "0c5b7183ac31452aa1900b44" },
+      "id_propietario": { "$oid": "b63f0122c32de56d12ea4188" }
+    },
+    {
+      "marca": "MV Agusta",
+      "modelo": "Brutale 800",
+      "anio": 2017,
+      "color": "Rojo",
+      "tipo": "Sport",
+      "id_motor": { "$oid": "6c5fcabdb8a428f353e25a1e" },
+      "id_propietario": { "$oid": "ea18395cf0fdf95b79d403c9" }
+    },
+    {
+      "marca": "Bajaj",
+      "modelo": "Dominar 400",
+      "anio": 2023,
+      "color": "Verde",
+      "tipo": "Sport",
+      "id_motor": { "$oid": "a39406521a6fdcf01ab924e1" },
+      "id_propietario": { "$oid": "6a04807d8a5619051b174676" }
+    },
+    {
+      "marca": "TVS",
+      "modelo": "Apache RR 310",
+      "anio": 2021,
+      "color": "Rojo",
+      "tipo": "Sport",
+      "id_motor": { "$oid": "a2f82be5a8f51834d1485eb0" },
+      "id_propietario": { "$oid": "1cf7e8f1cf167108b4b60ae3" }
+    },
+    {
+      "marca": "Zontes",
+      "modelo": "T310",
+      "anio": 2019,
+      "color": "Negro",
+      "tipo": "Adventure",
+      "id_motor": { "$oid": "2a8b7c1c63333cd781fdde32" },
+      "id_propietario": { "$oid": "b3623c3a0ef32e1f0e3771d0" }
+    },
+    {
+      "marca": "SYM",
+      "modelo": "NH T200",
+      "anio": 2020,
+      "color": "Gris",
+      "tipo": "Touring",
+      "id_motor": { "$oid": "ff582e04d4721d38cf905a43" },
+      "id_propietario": { "$oid": "5de47e3822e07f5b97b12514" }
+    }
+  ]
+  
